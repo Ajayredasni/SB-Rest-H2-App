@@ -1,1 +1,1 @@
-<h1> Sprong Boot H2 Dabase Rest Api</h1>
+<h1> Spring Boot H2 Dabase Rest Api</h1>
